@@ -1,9 +1,11 @@
-# PREVIEW
+# EXPLORE THE MODEL ASSOCIATED WITH THE PAPER: 
+
+## PREVIEW
 
 Have a look at the Jupyter Notebook (.ipynb)
 
 
-# INSTRUCTIONS
+## INSTRUCTIONS
 
 If you want to fully explore the model in the associated paper, you need to open and run the Jupyter Notebook in this repository.
 Have a look at the pdf and html files to have an idea of the expected output.
