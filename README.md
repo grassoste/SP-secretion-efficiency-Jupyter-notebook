@@ -7,7 +7,7 @@ Have a look at the pdf and html files to have an idea of the expected output.
 
 1. Clone the present repository in a folder of your choice 
 	
-    git clone https://teto1991@bitbucket.org/teto1991/sp-secretion-efficiency-jupyter-notebook.git
+    git clone https://github.com/grassoste/SP-secretion-efficiency-Jupyter-notebook.git
 
 
 
